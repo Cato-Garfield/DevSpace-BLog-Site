@@ -1,2 +1,2 @@
-# DevSpace-BLog-Site
+# DevSpace-Blog-Site
 First Laravel Project
